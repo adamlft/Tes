@@ -2,7 +2,7 @@ import { connect } from "cloudflare:sockets";
 
 // Variables
 const rootDomain = "minheejin.my.id"; // Ganti dengan domain utama kalian
-const serviceName = "Jeanz"; // Ganti dengan nama workers kalian
+const serviceName = "jeanz"; // Ganti dengan nama workers kalian
 const apiKey = "UO1-7noIwY0RAuhd0D0PJX8r6Z-1V64YT9pEP8ik"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "bintangbeteee@gmail.com"; // Ganti dengan email yang kalian gunakan
 const accountID = "2e8b2943348ef832f067897e827bb3ba"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
